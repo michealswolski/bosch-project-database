@@ -1,8 +1,8 @@
 # Cross-Divisional Project Database
-> Power Apps Canvas Application — Built During Bosch Internship
+> Power Apps Canvas Application — Built During Automotive Supplier Internship
 
 ## Overview
-Enterprise Canvas App system featuring dark futuristic UI themes, multi-step wizard workflows, admin management dashboards, and an integrated ticketing system. Deployed cross-tenant across Bosch global divisions.
+Enterprise Canvas App system featuring dark futuristic UI themes, multi-step wizard workflows, admin management dashboards, and an integrated ticketing system. Deployed cross-tenant across global cybersecurity divisions.
 
 ## What I Built
 - 11-screen Canvas App with dark futuristic theme design
@@ -31,4 +31,4 @@ Enterprise Canvas App system featuring dark futuristic UI themes, multi-step wiz
 - Canvas App performance optimization for complex forms
 
 ---
-*Built as part of my Product Cybersecurity Internship at Robert Bosch (2025)*
+*Built during a Product Cybersecurity Internship at a Tier 1 automotive supplier (2025)*
